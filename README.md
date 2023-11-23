@@ -9,8 +9,8 @@
 
 Commands to use:
 
-1.php artisan migrate
-2.php artisan db:seed
+- php artisan migrate
+- php artisan db:seed
 
 ## About Laravel
 
